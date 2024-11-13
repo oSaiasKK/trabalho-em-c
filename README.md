@@ -1,1 +1,1 @@
-# trabalho-em-c
+# trabalhoDeLogica
